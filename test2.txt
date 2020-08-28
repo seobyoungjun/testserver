@@ -1,4 +1,1 @@
-hi
-my name is byoungjun
-
 branch test +sbj8388@hanyang.ac.kr
